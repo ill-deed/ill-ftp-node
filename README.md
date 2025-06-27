@@ -19,6 +19,7 @@ Automatically cleans up test file if upload is successful
 
 Uses multithreading for faster scans
 
+Todo: Write results to a log file.
 ---
 
 ## ⚙️ Requirements
