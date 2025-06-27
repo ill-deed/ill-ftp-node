@@ -23,7 +23,7 @@ Uses multithreading for faster scans
 
 ---
 
-# ⚙️ Requirements
+## ⚙️ Requirements
 
 Node.js v14+ recommended
 
@@ -41,7 +41,7 @@ npm install basic-ftp ip
 
 ---
 
-# 🚀 Usage
+## 🚀 Usage
 
 1. Edit the target subnet in the script:
 
@@ -57,7 +57,7 @@ node ftp-anon-scan.js
 
 ---
 
-# 🧪 Output
+## 🧪 Output
 
 For each reachable FTP server with anonymous login:
 ```
@@ -68,7 +68,7 @@ If both read and write are available, it indicates a potential security risk.
 
 ---
 
-# ⚠️ Legal Disclaimer
+## ⚠️ Legal Disclaimer
 
 This tool is for educational and authorized security testing purposes only.
 Scanning networks without permission is illegal and unethical.
