@@ -19,21 +19,13 @@ Automatically cleans up test file if upload is successful
 
 Uses multithreading for faster scans
 
-
-
 ---
 
 ## ⚙️ Requirements
 
 Node.js v14+ recommended
 
-NPM packages:
-
-basic-ftp ip
-
-
 Install dependencies:
-
 
 ```bash
 npm install basic-ftp ip
@@ -52,7 +44,7 @@ const subnet = "192.168.1.0/24"; // Replace with your subnet
 2. Run the script:
 
 ```bash
-node ftp-anon-scan.js
+node ftp-scanner.js
 ```
 
 ---
