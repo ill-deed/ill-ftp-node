@@ -1,8 +1,8 @@
-## FTP Anonymous Access Scanner
+# FTP Anonymous Access Scanner
 
 This Node.js script scans a given subnet for FTP servers that allow anonymous login. It checks for read and write permissions using the basic-ftp library.
 
-# 🔍 Features
+## 🔍 Features
 
 Scans all IPs in a given CIDR subnet
 
